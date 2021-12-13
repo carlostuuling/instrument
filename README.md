@@ -12,6 +12,7 @@ Liikmed:
 - Karl-Patric Rohi
 - Markus Timofejev
 - Rasmus Kaasik
+- Silja Kask
 
 ## Projekti nimi
 # Instrument
