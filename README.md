@@ -15,3 +15,15 @@ Liikmed:
 
 ## Projekti nimi
 # Instrument
+
+## Projekti eesmärk
+virtuaalne kannel mis on kontrollitav läbi kasutaja 
+
+### Kommunikatsioon
+Suhtluskanalid: **Microsoft Teams**.
+
+### Ülesanded
+**1.päev**
+- Meeskonnaga tutvumine
+- Suhtluskanalite loomine
+- ülesannete jagamine
