@@ -6,10 +6,12 @@ html {
 }
 html, body {
     margin:0; padding:0;
+    background-color:lightblue ;
 }
 body {
+    display: flex;
     position: relative;
-    background-color: rgb(32, 32, 32);
+    background-color: lightblue;
     height: 100vh;
 }
 img {
@@ -17,14 +19,15 @@ img {
     height: auto;
 }
 .keys{
+    display: flex;
     grid-template-columns: repeat(3, 1fr);
-    position: absolute;
     bottom:5vh;
     left:0;
-    width: 100%;
-    display: grid;
+    width: 50%;
+    flex-direction: row;
     gap: 2vw;
     padding: 2vw;
+    margin-right: 2vw;
 }
 .key{
     flex-grow: 1;
@@ -48,4 +51,14 @@ img {
     background-color: #1a1a1a;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
+}
+
+.kannel {
+    width: 40rem;
+    height: 20rem;
+    display: flex;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+
 }
