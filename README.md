@@ -34,3 +34,4 @@ Suhtluskanalid: **Microsoft Teams**.
 - arduino ehitamine
 - kannelist piltide tegemine 
 - esimene esitus
+- 
