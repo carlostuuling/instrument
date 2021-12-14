@@ -28,3 +28,9 @@ Suhtluskanalid: **Microsoft Teams**.
 - Meeskonnaga tutvumine
 - Suhtluskanalite loomine
 - ülesannete jagamine
+
+**2.päev**
+- koodi kirjutamine
+- arduino ehitamine
+- kannelist piltide tegemine 
+- esimene esitus
