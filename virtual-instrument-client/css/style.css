@@ -1,22 +1,11 @@
-html {
-    box-sizing: border-box;
+.html {
+    box-sizing: border-box !important;
 }
 *, *::after, *::before {
-    box-sizing: inherit;
+    box-sizing: inherit !important;
 }
-html, body {
-    margin:0; padding:0;
-    background-color:lightblue ;
-}
-body {
+.html, .body {
     display: flex;
-    position: relative;
-    background-color: lightblue;
-    height: 100vh;
-}
-img {
-    width: 100%;
-    height: auto;
 }
 .keys{
     display: flex;
@@ -24,26 +13,31 @@ img {
     bottom:5vh;
     left:0;
     min-width: 100%;
-    height: max-content;
+    height: 30px;
     flex-direction: row;
-    gap: 2vw;
-    padding: 2vw;
-    margin-right: 2vw;
+    gap: 20px;
+    padding: 40px;
+    margin: 40px;
+    justify-content: center;
+    margin-top: 100px !important;
 }
 .key{
     flex-grow: 1;
+    min-width: max-content;
+    min-height: max-content !important;
+    height: 300px !important;
     color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 8vw;
-    border: 3px solid rgb(0, 0, 0);
-    border-radius: 0.25ch;
+    border:black solid 1px ;
     cursor: pointer;
     user-select: none;
     background-color: gray;
-    box-shadow: 0 9px #999;
+    box-shadow: 2 2px #999;
     opacity: 0.6;
+    height: 30px;
 }
 .key:hover {
     background-color: #2b302b
@@ -53,10 +47,14 @@ img {
     box-shadow: 0 5px #666;
     transform: translateY(4px);
 }
-
+.key:focus {
+    background-color: #1a1a1a;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
 .kannel {
-    width: 40rem;
-    height: 20rem;
+    width: 640px;
+    height: 320px;
     display: flex;
     padding-bottom: 20px;
     justify-content: center;
@@ -65,9 +63,18 @@ img {
 }
 
 .p5Canvas {
-    width: 50rem !important;
-    color: lightblue;
-    margin: 2vw;
-    padding: 1vw;
-    position: absolute;
+    width: 1340px !important;
+     margin-left: 340px; 
+    height: 400px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 240px !important;
+}
+
+#voti {
+width: auto;
+margin: auto;
+padding: auto;
+justify-content: center;
+    
 }
