@@ -36,4 +36,4 @@ Suhtluskanalid: **Microsoft Teams**.
 - esimene esitus
 - 
 
-[figma](https://www.figma.com/file/5r3qwe2oueF8GtHRCk99Hn/prototype?node-id=0%3A1)
+[figma prototüüp](https://www.figma.com/file/5r3qwe2oueF8GtHRCk99Hn/prototype?node-id=0%3A1)
