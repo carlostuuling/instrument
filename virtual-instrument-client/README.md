@@ -1,4 +1,4 @@
-# virtual-instrument-client-main
+# virtual-instrument-client
 
 Simple multi-player instrument example. 
 
