@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/c.mp3", "pack-1/d.mp3", "pack-1/e.mp3"
+  "pack-1/c.wav", "pack-1/d.wav", "pack-1/e.wav"
 ];
 let sounds = Array(files.length);
 
