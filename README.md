@@ -49,36 +49,33 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Carlos Tuuling
+    
+    Ei tea kas oleksin tahtnud täita muud ülesannet, ma arvan et ma arendasin enda tiimitööd ja tiimis teistega arvestamist ja tehniliseks oskuseks mis ma sain oli githubiga         paremini tuttavaks saamine ja sain ka figmat veidi kasutada 
 
-
- * Johanna Avik
+ * Johanna Avik 
+ 
+    Ei oleks tahtnud muud ülesannet täita. Mulle meeldis see projekt, see oli midagi teistsugust. 
+    Pole varem saanud koodida Arduinos. Olen varem ka Arduinoga kokku puutunud aga pole kunagi nii põhjalikuks/sügavamale sellega läinud.
+    Õppisin Arduinoga koodi ja seadistama.
 
 
  * Gerli Kask
 
-
- * Ats Pedassaar
+   Ei oleks tahtnud muud ülesannet täita. Sain jälle javascriptis kätt harjutada ja pehmeks oskuseks mida arendasin arvan, oli tiimitöö. 
 
 
  * Angelika Usin
-
-
- * Eerik Poopuu
-
+Muud ülesannet ei oleks hetkel tahtnud. Pehme oskus: Oskus uute inimestega koostööd teha. Tehniline oskus: Sain esmase kokkupuute Arduinoga, vähesel määral sain CSSis natuke kujunduse koodi kirjutada. 
 
  * Eerik Poopuu
-
-
- * Markus Ait
 
 
  * Karl-Patric Rohi
 
 
  * Markus Timofejev
-
-
- * Rasmus Kaasik
+   
+   Õppisin selgeks kuidaks server püsti panna, andsin ideid oma tiimile ja projekt tundus üleüldiselt huvitav, sest mulle meeldib muusikaga tegeleda ja üks muusikaga seotud        projekt oli väga vahva.
 
 
  * Silja Kask 
