@@ -49,6 +49,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Carlos Tuuling
+    
     Ei tea kas oleksin tahtnud täita muud ülesannet, ma arvan et ma arendasin enda tiimitööd ja tiimis teistega arvestamist ja tehniliseks oskuseks mis ma sain oli githubiga         paremini tuttavaks saamine ja sain ka figmat veidi kasutada 
 
  * Johanna Avik 
