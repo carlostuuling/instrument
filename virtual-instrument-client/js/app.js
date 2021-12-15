@@ -1,6 +1,6 @@
 // Socket.io server configuration
 // const socket = io("http://localhost:8000");
-const socket = io("http://10.25.184.66:8000/");
+const socket = io("http://10.25.185.230:8000/");
 
 socket.on("connect", () => {
   console.log("Client connected to: " + socket.id);
