@@ -80,6 +80,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Silja Kask 
+  
     Seekord oli huvitav ülesanne ning praktilisem. Sain proovida Arduino seadistamist ning programmeerimist. Kahjuks ei osanud arduinot serveriga ühendada.
 
 
