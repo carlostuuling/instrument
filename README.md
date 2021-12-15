@@ -65,7 +65,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Angelika Usin
-
+Muud ülesannet ei oleks hetkel tahtnud. Pehme oskus: Oskus uute inimestega koostööd teha. Tehniline oskus: Sain esmase kokkupuute Arduinoga, vähesel määral sain CSSis natuke kujunduse koodi kirjutada. 
 
  * Eerik Poopuu
 
