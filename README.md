@@ -49,7 +49,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Carlos Tuuling
-
+ 
 
  * Johanna Avik 
  
@@ -61,28 +61,16 @@ Suhtluskanalid: **Microsoft Teams**.
  * Gerli Kask
 
 
- * Ats Pedassaar
-
-
  * Angelika Usin
 
 
  * Eerik Poopuu
 
 
- * Eerik Poopuu
-
-
- * Markus Ait
-
-
  * Karl-Patric Rohi
 
 
  * Markus Timofejev
-
-
- * Rasmus Kaasik
 
 
  * Silja Kask 
