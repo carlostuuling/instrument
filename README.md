@@ -36,4 +36,8 @@ Suhtluskanalid: **Microsoft Teams**.
 - kannelist piltide tegemine 
 - prototüüp
 
+**3.päev**
+- viimaste asjade lõpetamised
+- esitlus 
+
 [figma prototüüp](https://www.figma.com/file/5r3qwe2oueF8GtHRCk99Hn/prototype?node-id=0%3A1)
