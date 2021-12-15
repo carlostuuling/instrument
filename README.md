@@ -65,9 +65,10 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Angelika Usin
-Muud ülesannet ei oleks hetkel tahtnud. Pehme oskus: Oskus uute inimestega koostööd teha. Tehniline oskus: Sain esmase kokkupuute Arduinoga, vähesel määral sain CSSis natuke kujunduse koodi kirjutada. 
+    Muud ülesannet ei oleks hetkel tahtnud. Pehme oskus: Oskus uute inimestega koostööd teha. Tehniline oskus: Sain esmase kokkupuute Arduinoga, vähesel määral sain CSSis  natuke kujunduse koodi kirjutada. 
 
  * Eerik Poopuu
+    Jäin rahule mis oli. Have fun while working. Tehniliselt poolelt õppisin Arduinot üles sättima/seadistama.
 
 
  * Karl-Patric Rohi
@@ -75,10 +76,10 @@ Muud ülesannet ei oleks hetkel tahtnud. Pehme oskus: Oskus uute inimestega koos
 
  * Markus Timofejev
    
-   Õppisin selgeks kuidaks server püsti panna, andsin ideid oma tiimile ja projekt tundus üleüldiselt huvitav, sest mulle meeldib muusikaga tegeleda ja üks muusikaga seotud        projekt oli väga vahva.
+   Õppisin selgeks kuidas server püsti panna, andsin ideid oma tiimile ja projekt tundus üleüldiselt huvitav, sest mulle meeldib muusikaga tegeleda ja üks muusikaga seotud        projekt oli väga vahva.
 
 
  * Silja Kask 
- 
+    Seekord oli huvitav ülesanne ning praktilisem. Sain proovida Arduino seadistamist ning programmeerimist. Kahjuks ei osanud arduinot serveriga ühendada.
 
 
