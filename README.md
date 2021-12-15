@@ -71,6 +71,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Markus Timofejev
+ 
  Õppisin selgeks kuidaks server püsti panna, andsin ideid oma tiimile ja projekt tundus üleüldiselt huvitav, sest mulle meeldib muusikaga tegeleda ja üks muusikaga seotud         projekt oli väga vahva.
 
 
