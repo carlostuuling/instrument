@@ -32,5 +32,12 @@ Suhtluskanalid: **Microsoft Teams**.
 **2.päev**
 - koodi kirjutamine
 - arduino ehitamine
+- arduino koodi kirjutamine
 - kannelist piltide tegemine 
-- esimene esitus
+- prototüüp
+
+**3.päev**
+- viimaste asjade lõpetamised
+- esitlus 
+
+[figma prototüüp](https://www.figma.com/file/5r3qwe2oueF8GtHRCk99Hn/prototype?node-id=0%3A1)
