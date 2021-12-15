@@ -51,7 +51,8 @@ Suhtluskanalid: **Microsoft Teams**.
  * Carlos Tuuling
 
 
- * Johanna Avik *
+ * Johanna Avik 
+ 
     Ei oleks tahtnud muud ülesannet täita. Mulle meeldis see projekt, see oli midagi teistsugust. 
     Pole varem saanud koodida Arduinos. Olen varem ka Arduinoga kokku puutunud aga pole kunagi nii põhjalikuks/sügavamale sellega läinud.
     Õppisin Arduinoga koodi ja seadistama.
