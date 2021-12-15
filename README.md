@@ -60,6 +60,8 @@ Suhtluskanalid: **Microsoft Teams**.
 
  * Gerli Kask
 
+   Ei oleks tahtnud muud ülesannet täita. Sain jälle javascriptis kätt harjutada ja pehmeks oskuseks mida arendasin arvan, oli tiimitöö. 
+
 
  * Angelika Usin
 
@@ -71,8 +73,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 
  * Markus Timofejev
- 
- Õppisin selgeks kuidaks server püsti panna, andsin ideid oma tiimile ja projekt tundus üleüldiselt huvitav, sest mulle meeldib muusikaga tegeleda ja üks muusikaga seotud         projekt oli väga vahva.
+ * Õppisin selgeks kuidaks server püsti panna, andsin ideid oma tiimile ja projekt tundus üleüldiselt huvitav, sest mulle meeldib muusikaga tegeleda ja üks muusikaga seotud    projekt oli väga vahva.
 
 
  * Silja Kask 
